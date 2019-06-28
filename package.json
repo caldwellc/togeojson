@@ -1,5 +1,5 @@
 {
-  "name": "@tmcw/togeojson",
+  "name": "@ccaldwell/togeojson",
   "version": "3.0.0",
   "description": "convert KML and GPX to GeoJSON",
   "umd:main": "dist/togeojson.umd.js",
